@@ -46,6 +46,7 @@ const versionTitles = {
   8: "Verified AI-Generated Summary",
   9: "Verified AI-Generated Summary",
   10: "Verified AI-Generated Summary",
+  11: "AI-Generated Summary"
 };
 
 function TextDisplay() {

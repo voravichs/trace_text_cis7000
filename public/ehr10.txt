@@ -1,30 +1,5 @@
-Quin is a 69 y/o male with:
-Problems
-Coronary artery disease : CABG x2 vessels, 2/78.
-Aortic stenosis : AVR 2/78/Dr Bonilla
-Diabetes mellitus : Dr Ayala-Skiff
-Atrial fibrillation
-Spinal stenosis : C3-4;C5-6; C7-T1
-He has some chronic complaints. Itchy throat and runny nose. No runny, ithcy eyes. 
-Cor- No SOB with walking but with heavy lifting. No palpitations. No lighthead. No PND. No orthopnea. No claudication. No edema. No nausea
-Has had chest pain since heart surgery. Not related to activity. Always present. 
-Has MIBI schedueld for 5/80. 
-2. DM- home gou 120-150. Followed at Skiff.
-Endocrine: No polydipsia, polyphagia, weight change, sweats,heat intolerance.Stable nocturia x3. GI- No nausea. No vomitting. No dyspepsia. No reflux. No abdo pain. No diarrhea. No constipation. No melena. No BRBPR.
-3. With persistent neck an dright shoulder pain. 
-4. Anxious., Verys stressed/tensed. With depression. Memory is not as good. Alprazolam is very helpful. 
-Flowsheets: BLOOD PRESSURE 102/70, PULSE 76, WEIGHT 203 lb, WD,WN,NAD
-Neck- limited lateral movment. No JVD. No bruit. No LAN. No thyromegaly
-Shoulder- limted ROM right shoulder with pain.
-Pulm- NO accessory muscle use. Percussion- normal. Palpation-soreness anterior chest. Auscultation-clear. 
-Cor- reg rhyhm. S1S2 normal. No gallop. No rub. NO murmer.
-Abdo- normal BS;soft with no HSM. No mass. No tenderness
+Given the societal importance of reading, it is worth investigating potential ways to facilitate the process. Bionic Reading, whereby words' initial letters are presented in bold, is an interesting concept because it can be theoretically motivated in terms of processes relating to attention and oculomotor control (i.e., salient letters would guide the eyes toward optimal viewing locations within words). On the other hand one might also predict a detriment, due to salient letters causing unnecessary fixations on words that would otherwise be skipped, and due to visual inconsistencies within words caused by bold versus non-bold letters with a disregard for syllable- or morpheme boundaries (e.g., Hasenäcker & Schroeder, 2017). With all these factors in mind, here I carried out a first empirical test of the method's efficacy.
 
-ASS: Frozen right shoulder.
-OA-neck and shoulder
-Anxiety/tension/depression
-P- ROM exercsies.
-Educ re: neck and shoulder. 
-Discussed adaptation ot age change and health problems. 
-For now , take alprazolam BID PRN since this seems to be helpful. 
-More than 50% of 25 min spent discussing this. 
+The present results do not provide evidence that Bionic Reading is helpful. The absence of a difference between Bionic and normal reading held true both in early and late trials, and both in slower and faster readers. As a note of caution I may add that absence of evidence is not evidence of absence; and I should emphasize that Bayesian statistical analyses provided strong evidence neither for the alternative-, nor for the null-hypothesis (Footnote 2). This was in spite of the fact that, with 1600 measurements per condition, the study met the recommendations of Brysbaert and Stevens (2018) for an a priori estimated statistical power of ∼0.80. Possibly some small but significant benefit of Bionic Reading might be observed when testing a sample that is several orders of magnitude greater than the present sample of 32 participants; but if that would be what is needed to argue for the method's efficacy, then the method would definitely not be guaranteed to benefit the individual reader.
+
+It nonetheless deserves mentioning that I tested university students here, none of whom reported to be dyslexic. The absence of an interaction with individual reading speed should therefore be seen as a mere preliminary sign that Bionic Reading's efficacy is not a function of the user's proficiency. Particularly given the above considerations I leave open the possibility that the method may help people with serious reading difficulties, as is the case in dyslexia. That being said, the theoretical underpinnings of the method as described in Section 1.1 apply to non-dyslexic readers all the same; and indeed, the company's central claims are addressed to the general population, rather than dyslexic readers in specific. Thus, even if future investigations reveal a benefit for dyslexic readers, the present results would nonetheless warrant attenuation of the claims that are currently being made.
